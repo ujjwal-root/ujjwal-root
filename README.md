@@ -8,8 +8,8 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/thefreakydesigner) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwal-tfd) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ujjwal-root&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ujjwal-root&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ujjwal-root&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal-root&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻 Tech Stack:
